@@ -1,0 +1,25 @@
+Useful links for future projects
+
+* Read more about Angular Security and vulnerabilities
+
+>	Angular UI: Project Clarity
+		https://vmware.github.io/clarity/documentation/v0.12/wizards
+
+> 	Angular Ng Module: Angular loading bar
+		http://ngmodules.org/modules/angular-loading-bar
+
+> 	Angular Design Course: Youtube Tutorial
+		https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow
+
+> 	MEAN Application tutorial: Youtube Series
+		https://www.youtube.com/watch?v=G_xHi0jywmc
+
+
+
+
+Sidelinks: 
+	- https://www.quora.com/What-is-your-advice-to-an-18-year-old-who-wants-to-become-a-millionare-before-25
+
+	- https://makeawebsitehub.com/online-business-ideas/
+	- https://www.incomediary.com/ways-to-make-money-from-website
+	- https://websitesetup.org/online-business-ideas/
