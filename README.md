@@ -3,7 +3,7 @@ Research notes, ideas and more
 
 
                                   Bill Gates
-                        Entrepreneur Report
+                       Entrepreneur Report
 
 
 Background information
@@ -20,3 +20,6 @@ Skills & qualities
 Having vision
 Growing and learning 
 Caring about people
+As an entrepreneur, Bill Gates is growing and learning, caring about people and has a great vision.
+ Leaders have always been viewed as fundamentally different from other people. There are many people who are smart, ambitious, and extroverted. However, it goes beyond these ingredients that may be part of a person’s DNA. 
+For Gates, his parents encouraged him to think independently and provided a values system that encouraged hard work, ethics, consideration for others and determination. 
