@@ -395,6 +395,9 @@ Workaround:
 This should preserve the aspect ratio of the SVG when using the CSS properties.
 *NOTE: Make sure to have the `xml:space` equal to `"preserve"`
 
+### Mime Type issues for Angular 8+
+- on builds for production: change the .js file types from ''' type="module" ''' to ''' type="text/javascript" ''' in the **index.hml** file.
+
 
 ## Useful Links
 
